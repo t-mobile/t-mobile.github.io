@@ -8,6 +8,8 @@ T-Mobile’s public Vulnerability Disclosure Policy and Bug Bounty Scope can be 
 
 ## Additional Information
 
+As part of our dedication to cybersecurity best practices, we’ve made our security documents available for you here on our [Trust Center](https://security.t-mobile.com/), including T-Mobile’s ISO 27001 certification, SOC 2 audit reports and more.
+
 For more details about our mission and the requirements to become a CISA CNA, please visit [CVE.org](https://www.cve.org/PartnerInformation/Partner#HowToBecomeAPartner).
 
 ## GitHub Pages
@@ -19,4 +21,6 @@ This project is automatically deployed to GitHub Pages: [View Live](https://t-mo
 For any questions or concerns, please contact our security team at [security@t-mobile.com](mailto:security@t-mobile.com).
 
 ---
-© 2025 [T-Mobile](https://t-mobile.com). All rights reserved.
+© 2025 [T-Mobile USA, Inc.](https://www.t-mobile.com/responsibility/legal/copyright). All rights reserved.
+
+[T-Mobile, the T logo, Magenta and the magenta color are registered trademarks of Deutsche Telekom AG.](https://www.t-mobile.com/responsibility/legal/trademarks)

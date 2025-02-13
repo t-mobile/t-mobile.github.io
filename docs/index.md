@@ -9,4 +9,6 @@ Security is a collaborative effort. At T-Mobile, we have partnered with the Cybe
 T-Mobile’s public Bug Bounty Scope and Vulnerability Disclosure Policy can be found on [Bugcrowd](https://bugcrowd.com/engagements/t-mobile).
 
 ---
-© 2025 [T-Mobile](https://t-mobile.com). All rights reserved.
+© 2025 [T-Mobile USA, Inc.](https://www.t-mobile.com/responsibility/legal/copyright). All rights reserved.
+
+[T-Mobile, the T logo, Magenta and the magenta color are registered trademarks of Deutsche Telekom AG.](https://www.t-mobile.com/responsibility/legal/trademarks)
