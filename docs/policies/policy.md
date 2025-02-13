@@ -9,4 +9,4 @@ Our disclosure policy outlines our commitment to responsible vulnerability discl
 You can review the policy in full here: [Disclosure Policy](https://bugcrowd.com/engagements/t-mobile)
 
 ---
-© 2025 [T-Mobile](t-mobile.com). All rights reserved.
+© 2025 [T-Mobile](https://t-mobile.com). All rights reserved.

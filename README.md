@@ -19,4 +19,4 @@ This project is automatically deployed to GitHub Pages: [View Live](https://t-mo
 For any questions or concerns, please contact our security team at [security@t-mobile.com](mailto:security@t-mobile.com).
 
 ---
-© 2025 [T-Mobile](t-mobile.com). All rights reserved.
+© 2025 [T-Mobile](https://t-mobile.com). All rights reserved.

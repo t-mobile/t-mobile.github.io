@@ -12,4 +12,4 @@ If you have discovered a vulnerability, please report it to us using the followi
 We appreciate your efforts in helping us maintain a secure environment.
 
 ---
-© 2025 [T-Mobile](t-mobile.com). All rights reserved.
+© 2025 [T-Mobile](https://t-mobile.com). All rights reserved.

@@ -13,4 +13,4 @@ Below is a list of all disclosed vulnerabilities. Click on a CVE to view detaile
 *Note: This is a placeholder list. Actual CVEs will be listed here once available.*
 
 ---
-© 2025 [T-Mobile](t-mobile.com). All rights reserved.
+© 2025 [T-Mobile](https://t-mobile.com). All rights reserved.

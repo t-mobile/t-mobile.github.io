@@ -9,4 +9,4 @@ Security is a collaborative effort. At T-Mobile, we have partnered with the Cybe
 T-Mobile’s public Bug Bounty Scope and Vulnerability Disclosure Policy can be found on [Bugcrowd](https://bugcrowd.com/engagements/t-mobile).
 
 ---
-© 2025 [T-Mobile](t-mobile.com). All rights reserved.
+© 2025 [T-Mobile](https://t-mobile.com). All rights reserved.
