@@ -5,6 +5,7 @@ docs_dir: docs
 theme:
   name: material
   favicon: assets/icon.png
+  logo: assets/logo,jpg
   palette:
     primary: custom
     accent: custom

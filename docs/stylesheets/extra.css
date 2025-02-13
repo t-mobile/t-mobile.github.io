@@ -4,3 +4,8 @@
     --md-primary-fg-color--dark: #b30059;
     --md-accent-fg-color: #e20074;
 }
+
+.md-logo img {
+    width: auto;
+    height: auto;
+}
