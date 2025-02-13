@@ -6,10 +6,10 @@ description: How to report vulnerabilities and get in touch with us
 
 If you have discovered a vulnerability, please report it to us using the following contact information:
 
-- **Email**: contact@yourorganization.com
-- **Bug Bounty Program**: Link to platform
+- **Email**: [security@t-mobile.com](mailto:security@t-mobile.com)
+- **Bug Bounty Program**: [Bugcrowd](https://bugcrowd.com/engagements/t-mobile)
 
 We appreciate your efforts in helping us maintain a secure environment.
 
 ---
-© 2025 [Your Organization](t-mobile.github.io). All rights reserved.
+© 2025 [T-Mobile](t-mobile.com). All rights reserved.

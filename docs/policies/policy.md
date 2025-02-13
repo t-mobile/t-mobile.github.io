@@ -6,7 +6,7 @@ description: Our commitment to responsible vulnerability disclosure
 
 Our disclosure policy outlines our commitment to responsible vulnerability disclosure. We believe in transparency and collaboration to ensure the security of our users.
 
-You can review the policy in full here: [Disclosure Policy](kloccis1.github.io)
+You can review the policy in full here: [Disclosure Policy](https://bugcrowd.com/engagements/t-mobile)
 
 ---
-© 2025 [Your Organization](t-mobile.github.io). All rights reserved.
+© 2025 [T-Mobile](t-mobile.com). All rights reserved.

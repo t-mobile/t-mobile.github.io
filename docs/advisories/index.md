@@ -8,12 +8,9 @@ Below is a list of all disclosed vulnerabilities. Click on a CVE to view detaile
 
 ## List of CVEs
 
-- [[CVE-2025-1234]] - Brief description of [CVE-2025-1234](https://nvd.nist.gov/)
-- [[CVE-2025-0001]] - Brief description of [CVE-2025-0001](https://nvd.nist.gov/)
-- [[CVE-2025-0002]] - Brief description of [CVE-2025-0002](https://nvd.nist.gov/)
-- [[CVE-2025-0003]] - Brief description of [CVE-2025-0003](https://nvd.nist.gov/)
+- [[CVE-0000-0000]] - Brief description of [CVE-0000-0000](https://nvd.nist.gov/)
 
 *Note: This is a placeholder list. Actual CVEs will be listed here once available.*
 
 ---
-© 2025 [Your Organization](t-mobile.github.io). All rights reserved.
+© 2025 [T-Mobile](t-mobile.com). All rights reserved.
