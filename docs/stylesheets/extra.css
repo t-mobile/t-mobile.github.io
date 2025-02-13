@@ -1,8 +1,17 @@
+[data-md-color-scheme="default"] {
+    --md-primary-fg-color: #e20074;
+    --md-primary-fg-color--light: #ff1a8d;
+    --md-primary-fg-color--dark: #b30059;
+    --md-accent-fg-color: #e20074;
+    --md-accent-fg-color--transparent: #e2007410;
+}
+
 :root {
     --md-primary-fg-color: #e20074;
     --md-primary-fg-color--light: #ff1a8d;
     --md-primary-fg-color--dark: #b30059;
     --md-accent-fg-color: #e20074;
+    --md-accent-fg-color--transparent: #e2007410;
 }
 
 .md-logo img {
