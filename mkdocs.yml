@@ -1,0 +1,54 @@
+site_name: Security Advisories Database
+site_description: Public vulnerability disclosures and security advisories
+site_author: Your Organization
+docs_dir: docs
+theme:
+  name: material
+  favicon: assets/icon.png
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - navigation.indexes
+    - toc.integrate
+    - search.suggest
+    - search.highlight
+
+plugins:
+  - search
+  - roamlinks
+  - tags
+  - git-revision-date-localized:
+      type: date
+      enable_creation_date: true
+  - callouts
+  - mermaid2
+
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: python/name:pymdownx.superfences.fence_code_format
+  - admonition
+  - pymdownx.details
+  - attr_list
+  - md_in_html
+  - footnotes
+  - def_list
+  - tables
+
+nav:
+  - Home: index.md
+  - Advisories: advisories/index.md
+  - Disclosure Policy: policies/policy.md
+  - Contact: resources/contact.md
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/t-mobile
