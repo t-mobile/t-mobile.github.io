@@ -13,6 +13,6 @@ Below is a list of all disclosed vulnerabilities. Click on a CVE to view detaile
 *Note: This is a placeholder list. Actual CVEs will be listed here once available.*
 
 ---
-© 2025 [T-Mobile USA, Inc.](https://www.t-mobile.com/responsibility/legal/copyright). All rights reserved.
+© 2025 [T-Mobile USA, Inc.](https://www.t-mobile.com/responsibility/legal/copyright) All rights reserved.
 
 [T-Mobile, the T logo, Magenta and the magenta color are registered trademarks of Deutsche Telekom AG.](https://www.t-mobile.com/responsibility/legal/trademarks)

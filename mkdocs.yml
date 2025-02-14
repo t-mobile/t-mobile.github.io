@@ -1,6 +1,6 @@
 site_name: Security Advisories Database
 site_description: Public vulnerability disclosures and security advisories
-site_author: Your Organization
+site_author: T-Mobile USA, Inc.
 docs_dir: docs
 theme:
   name: material

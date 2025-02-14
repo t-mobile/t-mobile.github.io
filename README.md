@@ -21,6 +21,6 @@ This project is automatically deployed to GitHub Pages: [View Live](https://t-mo
 For any questions or concerns, please contact our security team at [security@t-mobile.com](mailto:security@t-mobile.com).
 
 ---
-© 2025 [T-Mobile USA, Inc.](https://www.t-mobile.com/responsibility/legal/copyright). All rights reserved.
+© 2025 [T-Mobile USA, Inc.](https://www.t-mobile.com/responsibility/legal/copyright) All rights reserved.
 
 [T-Mobile, the T logo, Magenta and the magenta color are registered trademarks of Deutsche Telekom AG.](https://www.t-mobile.com/responsibility/legal/trademarks)
