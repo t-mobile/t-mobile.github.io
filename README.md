@@ -1,6 +1,6 @@
 # T-Mobile Public Vulnerability Disclosures
 
-Security is a collaborative effort. At T-Mobile, we have partnered with the Cybersecurity and Infrastructure Security Agency (CISA) to become a CVE Naming Authority (CNA). By leveraging the combined expertise of CISA and other CNAs, we continue to set the standard by implementing industry-first best practices and cutting-edge technologies to stay ahead of emerging threats. This initiative is crucial for improving transparency and efficiency in vulnerability management, ensuring the swift identification and mitigation of security threats to protect our customers and the broader digital ecosystem.
+Security is a collaborative effort. At T-Mobile, we have partnered with the Common Vulnerabilities and Exposures (CVE) Program to become a CVE Numbering Naming Authority (CNA). By leveraging the combined expertise of the CNA community, we continue to set the standard by implementing industry-first best practices and cutting-edge technologies to stay ahead of emerging threats. This initiative is crucial for improving transparency and efficiency in vulnerability management, ensuring the swift identification and mitigation of security threats to protect our customers and the broader digital ecosystem.
 
 ## Disclosure Policy
 
